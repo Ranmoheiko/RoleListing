@@ -1,0 +1,2 @@
+[1] LocalPlayer:0,1|1,0|2,0;
+[2] RemotePlayer:0,0|1,1|2,1;

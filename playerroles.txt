@@ -1,2 +1,2 @@
 [1] Local Player:0,0|1,0|2,1;
-[2] Remote Player:0,0|1,1|2,1;
+Ranmoh:0,1|1,0|2,1;
